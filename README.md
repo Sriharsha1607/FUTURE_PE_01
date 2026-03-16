@@ -88,8 +88,16 @@ Includes:
 FUTURE_PE_01
 │
 ├── README.md
-├── prompts.md
-└── outputs.md
+│
+├── prompts
+│   ├── homepage_prompt.md
+│   ├── services_prompt.md
+│   └── cta_prompt.md
+│
+└── outputs
+    ├── homepage_output.md
+    ├── services_output.md
+    └── cta_output.md
 ```
 
 ## Example Output
