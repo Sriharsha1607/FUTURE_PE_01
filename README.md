@@ -77,7 +77,7 @@ Includes:
 
 ## Tools Used
 
-* ChatGPT for prompt engineering and content generation
+* ChatGPT, Claude for prompt engineering and content generation
 * GitHub for project documentation and version control
 
 ---
