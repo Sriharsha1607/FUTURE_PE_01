@@ -9,9 +9,9 @@ Generate services page content for a coaching institute.
 ## INPUT
 Business Name: Brilliant’s Coaching Center
 Services:
-• SSC Coaching
-• Intermediate Coaching
-• Competitive Exam Preparation
+- SSC Coaching
+- Intermediate Coaching
+- Competitive Exam Preparation
 
 ## OUTPUT FORMAT
 
