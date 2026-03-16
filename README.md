@@ -23,10 +23,10 @@ This coaching institute provides academic support for students preparing for boa
 
 Design a reusable prompt framework that can generate:
 
-• Homepage copy with a clear value proposition
-• Services page descriptions
-• Persuasive call-to-action (CTA) sections
-• Tone-adaptable content for different business types
+- Homepage copy with a clear value proposition
+- Services page descriptions
+- Persuasive call-to-action (CTA) sections
+- Tone-adaptable content for different business types
 
 The generated content should be **ready for real website publishing**.
 
@@ -84,13 +84,13 @@ Includes:
 
 ## Project Structure
 
+```
 FUTURE_PE_01
 │
 ├── README.md
 ├── prompts.md
 └── outputs.md
-
----
+```
 
 ## Example Output
 
@@ -116,4 +116,5 @@ The prompt framework can easily be reused for other businesses like salons, cafe
 ## Author
 
 Sriharsha
+
 Prompt Engineering Intern
