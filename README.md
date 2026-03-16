@@ -16,7 +16,7 @@ Brilliant’s Coaching Center – Vijayawada
 
 ## Tools Used
 ChatGPT  
-GitHub  
+Claude
 
 ## Project Structure
 - prompts.md → Contains prompt templates
