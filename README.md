@@ -121,10 +121,6 @@ The prompt framework can easily be reused for other businesses like salons, cafe
 
 ---
 
-## Live Demo
-View the generated website copy demo here:
-https://sriharsha1607.github.io/FUTURE_PE_01/
-
 ## Author
 
 Sriharsha
